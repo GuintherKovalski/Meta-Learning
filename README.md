@@ -6,6 +6,7 @@ We used an evolutionary algorithm (Differential Evolution) for hyper-parameter o
 
 Each model was optimized 30 times, resulting in 30 different models:
 
+![test image size](https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/interval.png){:height="50%" width="50%"}
 ![alt text](https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/interval.png)
 
 From the 95% confidence interval for the mean we compute this plots:
