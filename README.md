@@ -18,11 +18,11 @@ https://1drv.ms/u/s!ApdlapclXdxHtUwjAVYbPFle9fGe?e=Ba7eY0
 
 For usage: 
 
-1 - pip install -r requirements
+>1 - pip install -r requirements
 
-2 - let a file named series.csv in the directory. Note that we used 3 time series, so small modifications will be necessary for single time series. 
+>2 - let a file named series.csv in the directory. Note that we used 3 time series, so small modifications will be  >necessary for single time series. 
 
-3 - run
+>3 - run main.py
 
 WARNING, for a 160 sample time series, using DE for an LSTM archtecture optimizaiton tooks rough one week. 
 
