@@ -6,7 +6,7 @@ We used an evolutionary algorithm (Differential Evolution) for hyper-parameter o
 
 Each model was optimized 30 times, resulting in 30 different models:
 
-<img src="https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/FRAMEWK.PNG" width="600" height="400">
+<img src="https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/interval.png" width="600" height="400">
 
 ![alt text](https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/interval.png)
 
