@@ -2,15 +2,15 @@
 This is the repository from my undeargrad thesis.
 We used an evolutionary algorithm (Differential Evolution) for hyper-parameter optimization of five time series forecasting models, as ilustrated in the image:
 
-![alt text](https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/FRAMEWK.PNG =250x250)
+![alt text](https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/FRAMEWK.PNG)
 
 Each model was optimized 30 times, resulting in 30 different models:
 
-![alt text](https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/interval.png =250x250)
+![alt text](https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/interval.png)
 
 From the 95% confidence interval for the mean we compute this plots:
 
-![alt text](https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/optimization.png =250x250)
+![alt text](https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/optimization.png)
 
 More details available at:
 
