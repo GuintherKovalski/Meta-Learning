@@ -1,5 +1,5 @@
 # Meta-Learning
-This is the repository from my undeargrad thesis.
+This is the repository from my undergrad thesis.
 We used an evolutionary algorithm (Differential Evolution) for hyper-parameter optimization of five time series forecasting models, as ilustrated in the image:
 
 ![alt text](https://github.com/GuintherKovalski/Meta-Learning/blob/master/IMAGES/FRAMEWK.PNG)
